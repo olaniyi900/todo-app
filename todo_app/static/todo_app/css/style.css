@@ -1,0 +1,44 @@
+.todo {
+    border: 1px solid black;
+}
+
+.todo-item {
+    list-style: none;
+    padding: 1rem;
+    border-bottom: 1px solid black;
+    margin-left: -2.5rem;
+}
+
+.todo-item:last-child {
+    border-bottom: none;
+}
+
+.btn-delete {
+    padding: 0.7rem;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 0.4rem;
+    margin-top: -0.6rem;
+}
+
+.del-form {
+    float: right;
+}
+
+.btn-sub {
+    padding: 0.85rem;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 0.4rem;
+    width: 8rem;
+    margin-left: 0.5rem;
+}
+
+.input-field {
+    border-radius: 0.5rem;
+    padding: 0.6rem;
+    border: 1px solid blue;
+    font-size: large;
+}
