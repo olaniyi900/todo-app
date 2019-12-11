@@ -25,6 +25,7 @@ body {
 
 .my-nav ul {
     padding: 1rem;
+    display: block;
 }
 
 .my-nav li:hover {
